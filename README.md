@@ -26,5 +26,9 @@ CTF用の学習ノート
 - Bluesky
 - etc
 
-
-Author: T.Senbashi
+## CTF関連情報
+- SECCON Beginners / SECCON
+  - 名前の通りBeginnersは入門者でもいけるかも？
+- TsukuCTF
+  - SNS・写真・ドメイン系が多いらしく、これもよさそう
+- [CTFTIME](https://ctftime.org/)は色んなCTFの開催情報見られる
